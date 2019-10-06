@@ -21,10 +21,10 @@ An open-sorce baby monitor, and beyond
 - Official Raspberry Pi 3 B+ (or possibly 4 B) with SD card running Rasbian OS
 - Official [NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2)
 - Adafruit [Mini USB Microphone](https://thepihut.com/products/adafruit-mini-usb-microphone)
+- Pimoroni [Pan-Tilt Hat](https://thepihut.com/products/pan-tilt-hat)
 
 The following are tentative and subject to change as project develops:
-- MindSensors [Pi-Pan](http://www.mindsensors.com/rpi/33-pi-pan)
-  or [Pan-Tilt Hat](https://thepihut.com/products/pan-tilt-hat)
+
 - Pi Supply [Bright Pi](https://thepihut.com/products/pi-supply-bright-pi-bright-white-and-ir-camera-light-for-raspberry-pi?variant=20063155093566)
 
 
