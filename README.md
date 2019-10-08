@@ -11,6 +11,7 @@ An open-sorce baby monitor, and beyond
 
 ### Stretch Goals
 - [ ] Add pan and tilt motion to camera and control via web interface
+- [ ] Add speaker for 2 way communication
 - [ ] Equip camera with visible and IR LEDs and control via web interface
 - [ ] Securely access web interface from outside local network
 - [ ] Power system over Ethernet (PoE)
